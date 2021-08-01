@@ -29,6 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [2.12 C Programming Bangla Tutorial - Swapping two Numbers in C](https://www.youtube.com/watch?v=OX_hHepI7UQ)
+- [2.11 C Programming Bangla Tutorial - Fahrenheit to Centigrade Conversion in C](https://www.youtube.com/watch?v=0QzmSGLfSjg)
+- [2.10 C Programming Bangla Tutorial - Centigrade to Fahrenheit Conversion in C](https://www.youtube.com/watch?v=0lOVratrgUU)
+- [2.9 C Programming Bangla Tutorial - Area of Circle in C](https://www.youtube.com/watch?v=tJ9jU9KuQ6c)
+- [2.8 C Programming Bangla Tutorial - Area of Square](https://www.youtube.com/watch?v=I61AqmNska8)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
