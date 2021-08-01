@@ -27,9 +27,9 @@
 
 - ⚡ Fun fact **I love watching Movies and TV Series**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Latest Youtube Videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
