@@ -56,12 +56,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhridoy&theme=highcontrast" alt="nhridoy" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhridoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhridoy&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nhridoy&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nhridoy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nhridoy)
 
-![GitHub metrics](https://metrics.lecoq.io/nhridoy)  
+![GitHub metrics](https://metrics.lecoq.io/nhridoy)
 
-![Profile views](https://gpvc.arturio.dev/nhridoy)  
