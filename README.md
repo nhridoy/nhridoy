@@ -7,6 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/hridoyboss12" target="blank"><img src="https://img.shields.io/twitter/follow/hridoyboss12?logo=twitter&style=for-the-badge" alt="hridoyboss12" /></a> </p>
 
+### My Projects
+| Project Title  | Platform  | Technology Used  | Live Link  | Role  |
+| ------------ | :------------: | :------------: | ------------ | ------------ |
+| Result Publishing Website  | Web  | PHP and MySQL  |   | Individual  |
+| Hospital Recommendation System  | Web  | Python (Machine Learning, Streamlit)  | [Hospital Recommendation System](https://share.streamlit.io/nhridoy/hospital-recommendation-system/main/Hospital_Recommender.py "Hospital Recommendation System")  | TeamWork  |
+|  covidpy python package  | Web  | Python  | [covidpy · PyPI](https://pypi.org/project/covidpy/ "covidpy · PyPI")  | Individual  |
+| Covid19 Tracker and Prediction  | Web  | Python (Machine Learning, Flask)  | [Covid19 Tracker and  Prediction](http://covid19-predict.herokuapp.com/ "Covid19 Tracker and  Prediction")   | Individual |
+| Github Finder  | Web  | JavaScript/Python (Flask)  | 1. [Github User Finder (Javascript)](https://nhridoy.github.io/github-finder/ "Github User Finder (Javascript)") 2. [Github User Finder (Python)](http://github-profile-lookup.herokuapp.com/ "Github User Finder (Python)")  | Individual  |
+| Pixar Studio Website Clone  | Web  |  Python (Django)  | [Pixar Studios Clone](http://nhridoy-pixar-clone.herokuapp.com/ "Pixar Studios Clone")  | Individual  |
+| TechBangla Blog  | Web  |  Python (Django)  | [TechBangla Blog](https://nhridoy-django-blog-one.herokuapp.com/ "TechBangla Blog")  | Individual  |
+| Instagram Web Clone  | Web  |  Python (Django)  | [Instagram Clone](http://nhridoy-instagram-clone.herokuapp.com/ "Instagram Clone")  | Individual  |
+| Movie and TV Show Search Engine  | Web  |  Python (Django)  | [Movie and TV Show Search Engine](https://movie-and-tv.herokuapp.com/ "Movie and TV Show Search Engine")  | Individual  |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
+
+
 - 🔭 Recently Finised Cloning [**Instagram**](https://nhridoy-instagram-clone.herokuapp.com)
 
 - 🔭 I’m currently working on an **E-Commerce Project**
