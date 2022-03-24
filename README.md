@@ -19,7 +19,7 @@
 | TechBangla Blog  | Web  |  Python (Django)  | [TechBangla Blog](https://nhridoy-django-blog-one.herokuapp.com/ "TechBangla Blog")  | Individual  |
 | Instagram Web Clone  | Web  |  Python (Django)  | [Instagram Clone](http://nhridoy-instagram-clone.herokuapp.com/ "Instagram Clone")  | Individual  |
 | Movie and TV Show Search Engine  | Web  |  Python (Django)  | [Movie and TV Show Search Engine](https://movie-and-tv.herokuapp.com/ "Movie and TV Show Search Engine")  | Individual  |
-|   |   |   |   |   |
+| Al Quran  |  Progressigve Web App | React JS  | [Al Quran](https://elated-spence-963691.netlify.app/)  | Individual  |
 |   |   |   |   |   |
 
 
@@ -27,9 +27,9 @@
 
 - 🔭 Recently Finised Cloning [**Instagram**](https://nhridoy-instagram-clone.herokuapp.com)
 
-- 🔭 I’m currently working on an **E-Commerce Project**
+- 🔭 I’m currently working on an **Al Quran** Project
 
-- 🌱 I’m currently learning **Django, React, React-Native**
+- 🌱 I’m fluent with **Django, Django Rest Framework, React, React-Native**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
