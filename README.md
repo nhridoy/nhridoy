@@ -49,11 +49,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [2.12 C Programming Bangla Tutorial - Swapping two Numbers in C](https://www.youtube.com/watch?v=OX_hHepI7UQ)
-- [2.11 C Programming Bangla Tutorial - Fahrenheit to Centigrade Conversion in C](https://www.youtube.com/watch?v=0QzmSGLfSjg)
-- [2.10 C Programming Bangla Tutorial - Centigrade to Fahrenheit Conversion in C](https://www.youtube.com/watch?v=0lOVratrgUU)
-- [2.9 C Programming Bangla Tutorial - Area of Circle in C](https://www.youtube.com/watch?v=tJ9jU9KuQ6c)
-- [2.8 C Programming Bangla Tutorial - Area of Square](https://www.youtube.com/watch?v=I61AqmNska8)
+- [3.3 C Programming Bangla Tutorial - Control Statement &lpar;If Else Check Vowels-Consonants&rpar;](https://www.youtube.com/watch?v=RsQegyyRFfo)
+- [3.2 C Programming Bangla Tutorial - Control Statement &lpar;If Else Check Odd-Even Number&rpar;](https://www.youtube.com/watch?v=RYxAAEbz8nA)
+- [3.1 C Programming Bangla Tutorial - Control Statement &lpar;If Else&rpar;](https://www.youtube.com/watch?v=hPqoeRTiwK4)
+- [2.15 C Programming Bangla Tutorial - Relational Operator](https://www.youtube.com/watch?v=aAJepgpCHuU)
+- [2.13 C Programming Bangla Tutorial - Unary Operator](https://www.youtube.com/watch?v=KKjmL9R_VYo)
 <!-- YOUTUBE:END -->
 
 ### 🎧 Listening to 🎧
