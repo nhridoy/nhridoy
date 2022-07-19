@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/hridoyboss12" target="blank"><img src="https://img.shields.io/twitter/follow/hridoyboss12?logo=twitter&style=for-the-badge" alt="hridoyboss12" /></a> </p>
 
+<a href="https://stackexchange.com/users/15727758"><img src="https://stackexchange.com/users/flair/15727758.png?theme=dark" width="208" height="58" alt="profile for Nahidujjaman Hridoy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Nahidujjaman Hridoy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### My Projects
 | Project Title  | Platform  | Technology Used  | Live Link  | Role  |
 | ------------ | :------------: | :------------: | ------------ | ------------ |
