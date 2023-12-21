@@ -51,11 +51,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [3.7 C Programming Bangla Tutorial - Control Statement &lpar;If Else Maximum or Minimum Number Check&rpar;](https://www.youtube.com/watch?v=VcSemWAKPrY)
 - [3.6 C Programming Bangla Tutorial - Control Statement &lpar;If Else Leap Year Check&rpar;](https://www.youtube.com/watch?v=2jYi_8FPSA4)
 - [3.5 C Programming Bangla Tutorial - Control Statement &lpar;If Else Check Pass Fail Check&rpar;](https://www.youtube.com/watch?v=Mtci5xSQ1xQ)
 - [3.4.2 C Programming Bangla Tutorial - Logical Operator &lpar;Capital and Small Letter&rpar;](https://www.youtube.com/watch?v=G9GJRgw1J3M)
 - [3.4.1 C Programming Bangla Tutorial -  Logical Operator - Vowels Consonants](https://www.youtube.com/watch?v=CsjRPMOI6oQ)
-- [4.0 C Programming Bangla Tutorial - Assignment Operator](https://www.youtube.com/watch?v=K2GaCDgzWX0)
 <!-- YOUTUBE:END -->
 
 ### 🎧 Listening to 🎧
