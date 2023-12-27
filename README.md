@@ -51,11 +51,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [4.0 C Programming Bangla Tutorial - Assignment Operator](https://www.youtube.com/watch?v=K2GaCDgzWX0)
 - [3.12 C Programming Bangla Tutorial - URI Problem Solving Tutorial](https://www.youtube.com/watch?v=rVi4703p9HY)
 - [3.11 C Programming Bangla Tutorial - Control Statement &lpar;First Examination of C Program&rpar;](https://www.youtube.com/watch?v=SY66v5WqLn8)
 - [3.10 C Programming Bangla Tutorial - Control Statement &lpar;Month selection using Switch Statements&rpar;](https://www.youtube.com/watch?v=qkK0d1eqiZE)
 - [3.9 C Programming Bangla Tutorial - Control Statement &lpar;Switch Statements&rpar;](https://www.youtube.com/watch?v=1uo3PkdkFBM)
-- [3.8 C Programming Bangla Tutorial - Control Statement &lpar;If Else Input Error Handling&rpar;](https://www.youtube.com/watch?v=8qOhF2OrQ64)
 <!-- YOUTUBE:END -->
 
 ### 🎧 Listening to 🎧
