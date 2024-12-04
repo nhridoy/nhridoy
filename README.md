@@ -2,6 +2,9 @@
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="nhridoy" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nhridoy&label=Profile%20Views&pretty=true" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhridoy&theme=dracula" alt="nhridoy" /></a> </p>
 
@@ -61,6 +64,11 @@
 ### 🎧 Listening to 🎧
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=76g3a8l8c1uhjzpkcxd8o2w5x&unique=true)](https://open.spotify.com/user/76g3a8l8c1uhjzpkcxd8o2w5x)
 
+
+<h3 align="left">✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+
 ###
 
 <h3 align="left">🙋‍♂️ Connect with me:</h3>
@@ -87,11 +95,14 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nhridoy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=nhridoy" height="150" alt="languages graph"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhridoy&theme=dracula" alt="nhridoy" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nhridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhridoy&theme=dracula" alt="streak graph" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhridoy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<h3 align="left">🔝 Top Contributed Repo:</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=nhridoy&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nhridoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
