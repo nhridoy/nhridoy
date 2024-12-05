@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nahidujjaman Hridoy</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="nhridoy" /> </p>
-<a href="https://visitcount.itsvg.in">
+<p align="left" style="visibility: hidden;"> <img src="https://komarev.com/ghpvc/?username=nhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="nhridoy" /> </p>
+<p align="center">
+<a href="https://visitcount.itsvg.in/analytics/nhridoy">
   <img src="https://visitcount.itsvg.in/api?id=nhridoy&label=Profile%20Views&pretty=true" />
 </a>
+  </p>
+<p align="center">
+  <a href="https://u8views.com/github/nhridoy"><img src="https://u8views.com/api/v1/github/profiles/75487507/views/day-week-month-total-count.svg"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhridoy&theme=dracula" alt="nhridoy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhridoy&theme=dracula" alt="nhridoy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hridoyboss12" target="blank"><img src="https://img.shields.io/twitter/follow/hridoyboss12?logo=twitter&style=for-the-badge" alt="hridoyboss12" /></a> </p>
 
@@ -98,11 +103,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nhridoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhridoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhridoy&theme=dracula" alt="streak graph" /></p>
+  <p><img src="https://github-contributor-stats.vercel.app/api?username=nhridoy&limit=5&theme=dracula&combine_all_yearly_contributions=true" /></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhridoy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=nhridoy&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nhridoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
